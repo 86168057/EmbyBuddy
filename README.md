@@ -1,4 +1,4 @@
-# Emby全能助手 (Emby to JAVDB & External Players)
+# Emby全能助手
 
 一款为 Emby 打造的全能增强脚本，集成 JAVDB 跳转与全套外部播放器。
 
