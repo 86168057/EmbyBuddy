@@ -12,8 +12,8 @@
 // @author       潇洒公子
 // @original-author chen3861229
 // @source       https://github.com/86168057/EmbyBuddy
-// @updateURL    https://raw.githubusercontent.com/86168057/EmbyBuddy/main/Emby全能助手.js
-// @downloadURL  https://raw.githubusercontent.com/86168057/EmbyBuddy/main/Emby全能助手.js
+// @updateURL    https://raw.githubusercontent.com/86168057/EmbyBuddy/main/Emby全能助手_v2.2.0.js
+// @downloadURL  https://raw.githubusercontent.com/86168057/EmbyBuddy/main/Emby全能助手_v2.2.0.js
 // @match        *://*/web/index.html
 // @match        *://*/web/
 // @grant        GM_xmlhttpRequest
