@@ -3,7 +3,7 @@
 > Emby/Jellyfin 全能增强脚本 —— PotPlayer 外部播放 + JAVDB/JAVBus 番号一键搜索
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/86168057/emby-to-javdb?style=social)](https://github.com/86168057/emby-to-javdb/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/86168057/EmbyBuddy?style=social)](https://github.com/86168057/EmbyBuddy/stargazers)
 
 ---
 
@@ -39,7 +39,7 @@
 - 浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
 
 ### 安装方式
-1. 点击安装链接：[安装 EMBY全能助手](https://raw.githubusercontent.com/86168057/emby-to-javdb/main/Emby全能助手.user.js)
+1. 点击安装链接：[安装 EMBY全能助手](https://raw.githubusercontent.com/86168057/EmbyBuddy/main/Emby全能助手.js)
 2. Tampermonkey 会自动弹出安装确认，点击「安装」即可
 
 ---
@@ -77,6 +77,16 @@
 - 新增 STRM 直链支持
 - 优化番号识别算法
 - 优化移动端按钮显示
+
+---
+
+## ☕ 赞赏支持
+
+如果这个脚本对你有帮助，欢迎请作者喝杯咖啡 ☕
+
+| 微信 | 支付宝 |
+|:---:|:---:|
+| ![](assets/微信收款二维码.png) | ![](assets/支付宝收款二维码.png) |
 
 ---
 
