@@ -39,7 +39,7 @@
 - 浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
 
 ### 安装方式
-1. 点击安装链接：[安装 EMBY全能助手](https://raw.githubusercontent.com/86168057/EmbyBuddy/main/Emby全能助手_v2.2.0.js)
+1. 点击安装链接：[安装 EMBY全能助手](https://raw.githubusercontent.com/86168057/EmbyBuddy/main/EbyBuddy_v2.2.0.user.js)
 2. Tampermonkey 会自动弹出安装确认，点击「安装」即可
 
 ---
