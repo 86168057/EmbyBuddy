@@ -3,7 +3,7 @@
 // @name:en      EbyBuddy
 // @name:zh      EMBY全能助手
 // @name:zh-CN   EMBY全能助手
-// @namespace    https://github.com/86168057/emby-to-javdb
+// @namespace    https://github.com/86168057/EmbyBuddy
 // @version      2.2.0
 // @description  Emby/Jellyfin 全能助手 - 外部播放器调用 + 番号搜索
 // @description:zh-cn Emby/Jellyfin 全能助手：PotPlayer播放、JAVDB/JAVBus番号搜索（基于embyLaunchPotplayer二次开发）
@@ -11,9 +11,9 @@
 // @license      MIT
 // @author       潇洒公子
 // @original-author chen3861229
-// @source       https://github.com/86168057/emby-to-javdb
-// @updateURL    https://raw.githubusercontent.com/86168057/emby-to-javdb/main/Emby全能助手.user.js
-// @downloadURL  https://raw.githubusercontent.com/86168057/emby-to-javdb/main/Emby全能助手.user.js
+// @source       https://github.com/86168057/EmbyBuddy
+// @updateURL    https://raw.githubusercontent.com/86168057/EmbyBuddy/main/Emby全能助手.js
+// @downloadURL  https://raw.githubusercontent.com/86168057/EmbyBuddy/main/Emby全能助手.js
 // @match        *://*/web/index.html
 // @match        *://*/web/
 // @grant        GM_xmlhttpRequest
