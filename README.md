@@ -1,4 +1,4 @@
-# EMBY全能助手 / EbyBuddy
+# EMBY全能助手 / EmbyBuddy
 
 > Emby/Jellyfin 全能增强脚本 —— PotPlayer 外部播放 + JAVDB/JAVBus 番号一键搜索
 
@@ -47,7 +47,7 @@
 ## 🖼️ 功能展示
 
 ### 列表页
-![列表页](screenshots/list-page.png)
+![列表页](screenshots/detail-page.png)
 
 每个视频卡片下方显示三个快捷按钮：
 - 🟢 **JD** — JAVDB 搜索
@@ -55,7 +55,7 @@
 - 🟡 **Pot** — PotPlayer 直接播放
 
 ### 详情页
-![详情页](screenshots/detail-page.png)
+![详情页](screenshots/list-page.png)
 
 PotPlayer 播放按钮 + 设置按钮（显示模式 / 多开 / STRM直链）
 JAVDB / JAVBus 搜索按钮（自动提取番号）
@@ -75,7 +75,7 @@ JAVDB / JAVBus 搜索按钮（自动提取番号）
 ## 📝 更新日志
 
 ### v2.2.0
-- 重命名为 EMBY全能助手 / EbyBuddy
+- 重命名为 EMBY全能助手 / EmbyBuddy
 - 新增列表页快捷按钮（JD/JB/Pot）
 - 新增 JAVBus 番号搜索
 - 新增 STRM 直链支持
