@@ -46,12 +46,6 @@
 
 ## 🖼️ 功能展示
 
-### 详情页
-![详情页](screenshots/detail-page.png)
-
-PotPlayer 播放按钮 + 设置按钮（显示模式 / 多开 / STRM直链）
-JAVDB / JAVBus 搜索按钮（自动提取番号）
-
 ### 列表页
 ![列表页](screenshots/list-page.png)
 
@@ -59,6 +53,12 @@ JAVDB / JAVBus 搜索按钮（自动提取番号）
 - 🟢 **JD** — JAVDB 搜索
 - 🔴 **JB** — JAVBus 搜索
 - 🟡 **Pot** — PotPlayer 直接播放
+
+### 详情页
+![详情页](screenshots/detail-page.png)
+
+PotPlayer 播放按钮 + 设置按钮（显示模式 / 多开 / STRM直链）
+JAVDB / JAVBus 搜索按钮（自动提取番号）
 
 ---
 
